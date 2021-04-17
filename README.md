@@ -6,7 +6,7 @@ BiasedWalker.m is a good example script to see how to use EntropyEst.m and repro
 
 The following scripts relate to the experimental figures. They will take a while to run, in particular the bootstrap results were run with a very high n for the figures, running them for lower n will get roughly, but not exactly the same results.
 
-FlagellaMotor.m shows how to get results from Fig 3. The data files are in file_sruct.mat.
+FlagellaMotor.m shows how to get results from Fig 3. The data files are in MTB24_10mM.mat, MTB24_85mM.mat, MTB32_85mM.mat.
 
 MTBootstrap.m shows how to get results from Fig 4. The data files are in MT_traj.mat
 
