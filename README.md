@@ -10,10 +10,10 @@ FlagellaMotor.m shows how to get results from Fig 3. The data files are in MTB24
 Experimental data courtesy of Jasmine Nirody, and was obtained similarly to J. A. Nirody, A. L. Nord, and R. M. Berry, “Load-
 dependent adaptation near zero load in the bacterial flagellar motor,” J. Royal Soc. Interface 16, 20190300 (2019).
 
-MTBootstrap.m shows how to get results from Fig 4. The data files are in MT_traj.mat
+MTBootstrap.m shows how to get results from Fig 4. The data files are in MT_traj.mat.
 Experimental data courtesy of Benjamin Lacroix.
 
 HEKOsc.m shows how to get results from Fig 4. The data files are in HEK_data.mat.
-Data comes from K. Thurley, S. C. Tovey, G. Moenke, V. L. Prince, A. Meena, A. P. Thomas, A. Skupin, C. W. Taylor, and M. Falcke, “Reliable encoding of stimulus intensities within random sequences of intracellular ca2+ spikes,” Sci. Signal. 7, ra59 (2014).
+Experimental data from K. Thurley, S. C. Tovey, G. Moenke, V. L. Prince, A. Meena, A. P. Thomas, A. Skupin, C. W. Taylor, and M. Falcke, “Reliable encoding of stimulus intensities within random sequences of intracellular ca2+ spikes,” Sci. Signal. 7, ra59 (2014).
 
 The remaining functions are helper functions and will be called by the above scripts.
